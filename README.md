@@ -3,7 +3,7 @@
 This is an example implementation of Wave Function Collapse, primarily intended for use in my C-Based Text Adventure Game. The WFC algorithm is a procedural generation technique that implements constraint solving to procedurally generate (in this case) a 2D grid layout. 
 
 ## Grid Layout
-The grid generated is a 10x10 2D array where each cell generated cal be represented by one of the following tile types:
+The grid generated is a 10x10 2D array where each cell generated can be represented by one of the following tile types:
 
 - **EMPTY** ('e'): An empty space.
 - **WALL*** ('#'): A wall that defines boundaries or obstacles.
